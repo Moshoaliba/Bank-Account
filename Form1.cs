@@ -1,5 +1,3 @@
-﻿//Moshoaliba,K-34316345
-
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
